@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Shared Animation"
+rootProject.name = "SplashLoginSignup"
